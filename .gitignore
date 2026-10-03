@@ -1,0 +1,10 @@
+.gradle/
+build/
+*/build/
+local.properties
+*.apk
+*.apk.idsig
+.javac-verify/
+.idea/
+*.iml
+.DS_Store
